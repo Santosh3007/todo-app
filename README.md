@@ -1,7 +1,7 @@
 
 <p align="center"><img width=55% src="https://github.com/Santosh3007/todo-app/blob/main/assets/Logo1.png" /></p>
 <h1 align="center">Get It Done</h1>
-<p align="center"> <a href="https://www.elasticbeanstalk.com">Try it out!</a></p>
+<p align="center"> <a href="http://todo-frontend-env.eba-whhqv9zi.ap-southeast-1.elasticbeanstalk.com">Try it out!</a></p>
 
 ## Overview
 A task manager designed to help you manage and keep track of your everyday tasks and goals to make sure you **get it done** on time. Never forget anything ever again and all you have to do is use the app!
