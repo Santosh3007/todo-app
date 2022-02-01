@@ -13,7 +13,7 @@ A task manager designed to help you manage and keep track of your everyday tasks
 
 Login using the following credentials for a test account
 ```
-Email: test@gmail.com
+Email: cvwotest@gmail.com
 Password: testtest
 ```
 
