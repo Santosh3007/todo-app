@@ -11,6 +11,12 @@ A task manager designed to help you manage and keep track of your everyday tasks
 <p align="center"><img width=45% src="https://github.com/Santosh3007/todo-app/blob/main/assets/TaskView.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=45% src="https://github.com/Santosh3007/todo-app/blob/main/assets/Account.png" /></p>
 <br/>
 
+Login using the following credentials for a test account
+```
+Email: test@gmail.com
+Password: testtest
+```
+
 ## Setup to run locally
 
 Prerequisites
